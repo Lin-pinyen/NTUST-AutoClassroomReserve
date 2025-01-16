@@ -6,7 +6,7 @@
     "username": "Your email",
     "password": "Your password",
     "target_room_url": "https://yo-1.ct.ntust.edu.tw/rms/loans/roomReserve/77",
-    "reason": "營建工程整合設計實務",
+    "reason": "XXX",
     "weekday": 1,
     "desired_months": [
         "February",
