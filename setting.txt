@@ -1,0 +1,14 @@
+{
+    "username": "Your email",
+    "password": "Your password",
+    "target_room_url": "https://yo-1.ct.ntust.edu.tw/rms/loans/roomReserve/77",
+    "reason": "營建工程整合設計實務",
+    "weekday": 1,
+    "desired_months": ["February","March", "April", "May", "June"],
+    "start_time_hour": 15,
+    "start_time_minute": 30,
+    "end_time_hour": 17,
+    "end_time_minute": 0,
+    "start_date": [2025, 2, 17],
+    "max_days_to_borrow": 16
+}
